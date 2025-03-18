@@ -13,7 +13,7 @@ $ = the end of the string
 */
 const regex = new RegExp("\\.com$")
 console.log(regex.test("skfjbsahfhsdbfbgfjjnaskf com"))
-
+xgsgsdgfs
 
 /* 
 
